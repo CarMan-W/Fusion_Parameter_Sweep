@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"",
+	"description":	{
+		"":	"Sweep one parameter through a list of values and export an STL for each."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
