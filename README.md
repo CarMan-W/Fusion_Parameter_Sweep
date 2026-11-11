@@ -1,4 +1,4 @@
-# ParamSweepSTL
+# Fusion_Parameter_Sweep
 
 A Fusion script that generates variants of a parametric design. Pick one or two
 parameters, give each a list of values, and it exports STL, 3MF and/or STEP for
@@ -119,4 +119,4 @@ Cancel in the progress box stops after the current variant.
 - Up to 2000 variants per run.
 - Text parameters are not supported.
 - Per-body mode exports visible solid bodies only. Hide what you do not want.
-# Fusion_Parameter_Sweep
+
